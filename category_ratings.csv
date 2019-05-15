@@ -1,14 +1,6 @@
-"category","avg_rating"
-"Restaurants",3.71722373669947
-"Shopping",3.64592112510087
-"Home",3.58483098420904
-"Beauty",3.95532735613011
-"Health",3.80827175894828
-"Auto",3.52209038121686
-"Fitness",4.03468697123519
-"Travel",3.22658541297132
-"Hotel",3.22658541297132
-"Arts",3.62000147939936
-"Entertainment",3.58331565870804
-"Events",4.40740740740741
-"Nightlife",3.67362581741174
+category,avg_rating
+"Health, Beauty, Fitness",3.93267
+"Travel, Hotel, Shopping",3.36637
+Restaurants,3.71722
+"Entertainment, Arts, Events, Nightlife",4.00268
+"Home, Auto",3.55346
